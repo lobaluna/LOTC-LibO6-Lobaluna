@@ -1,2 +1,2 @@
 # LOTC-LibO6-Lobaluna
-Tema para suar con la extensión de LibO6 ThemeChanger.oxt de Rania Amina
+Tema gráfico de personalización de LibreOffice 6.x Se usa con la extensión ThemeChanger.oxt de Rania Amina
